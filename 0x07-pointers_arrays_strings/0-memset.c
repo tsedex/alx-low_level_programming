@@ -1,8 +1,3 @@
-/*
- * File: 0-memset.c
- * Auth: Tsedalu ashenafi
- */
-
 #include "main.h"
 
 /**
